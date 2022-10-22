@@ -29,7 +29,7 @@ const DatosPersonales = () => {
                 </div>
 
                 <div id="Lado">
-                    <br></br><h2>Mi github y Mi Facebook</h2>
+                    <br></br><h2>Mi Github y Mi Facebook</h2>
                     <a href="https://github.com/VictorM2001" target="blank"><img src={Git} alt="Git" width="50" height="50" /></a> <p></p>
                     <a href="https://www.facebook.com/profile.php?id=100014520075597" target="blank"><img src={Facebook} alt="Git" width="50" height="50" /></a>
                 </div>
