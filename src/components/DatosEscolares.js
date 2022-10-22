@@ -41,7 +41,7 @@ const DatosEscolares = () => {
 
             <div id="articulo">
             <br></br><h3>Cobach Plantel 262 Chihuahua</h3>
-            <p>Especializado en informatica, Diseño Grafico, Hojas de Calculo Y paginas Web en HTML.</p><br></br>
+            <p>Especialidad en informatica: Diseño Grafico, Hojas de Calculo Y paginas Web en HTML.</p><br></br>
                 <img src={Cobach} alt="Cobach" width="500" height="400" /><br></br><br></br>
             </div>
 
